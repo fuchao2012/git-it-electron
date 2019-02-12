@@ -1,0 +1,46 @@
+{
+  "n": {
+    ".gitignore": "忽略文件表",
+    "repository": "代码仓库",
+    "repositories": "代码仓库",
+    "branch": "分支",
+    "branches": "分支",
+    "fork": "派生",
+    "forks": "派生",
+    "request": "请求",
+    "pull request": "推送请求",
+    "pull requests": "推送请求",
+    "commit": "提交",
+    "commits": "提交",
+    "upstream": "上游",
+    "feature": "功能",
+    "status": "状态",
+    "diff": "差异",
+    "readme": "说明文档",
+    "collaborator": "核心贡献者",
+    "collaborators": "核心贡献者",
+    "remote": "远程",
+    "remotes": "远程",
+    "contributing": "外部贡献者",
+    "connections": "连接"
+  },
+  "v": {
+    "add": "新增",
+    "fork": "派生",
+    "forked": "派生",
+    "clone": "克隆",
+    "push": "推送",
+    "close": "关闭",
+    "pull": "拉取",
+    "commit": "提交",
+    "merge": "合并",
+    "merged": "合并",
+    "checkout": "检出",
+    "stage": "暂存"
+  },
+  "adj": {
+    "merged": "已合并",
+    "forked": "已派生",
+    "remote": "远程的"
+  }
+}
